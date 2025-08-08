@@ -1,18 +1,51 @@
-### Olá! Me chamo Emerson Silva, Seja Bem-vindo ao meu Github! 😄
+<h1 align="center">👋 Olá, eu sou o Emerson Silva</h1>
+<h3 align="center">💻 Desenvolvedor Full Stack em constante evolução 🚀</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0XbYPd1FSrKg8rckwFIHlw%3D%3D)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emerson.vasc96/)
+---
 
-![Emerson GitHub stats](https://github-readme-stats.vercel.app/api?username=ermelsu&show_icons=true&theme=dracula)
+### 🚀 Sobre mim
+Sou apaixonado por tecnologia e desenvolvimento de soluções criativas.  
+Atualmente trabalho e estudo criando **sistemas web completos**, integrações com APIs e automações inteligentes.  
+Meu objetivo é transformar ideias em aplicações reais e funcionais, com foco em **performance, design e experiência do usuário**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermelsu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Tecnologias que mais utilizo:
+### 🛠️ Tecnologias e Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
+</p>
 
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img aling="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img aling="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img aling="center" alt="Node Js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</div> <br/>
+---
+
+### 📌 Projetos em Destaque
+- 🔹 [**GECAPE**](#) – Sistema web institucional para gestão de pedidos (Flask, Heroku, JS, Bootstrap).
+- 🔹 [**Automação Alexa**](#) – Controle inteligente de dispositivos e rotinas com integração personalizada.
+- 🔹 [**Painel de Indicadores**](#) – Dashboard com métricas de estoque e desempenho.
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ermelsu&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermelsu&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🐍 Minhas contribuições
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ermelsu/ermelsu/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+💬 *"Código limpo, design funcional e soluções criativas — é assim que eu trabalho."*
