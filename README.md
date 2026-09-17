@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <i>Transformo processo manual em sistema web que roda em produção.</i>
+  <i>Transformo processos reais em sistemas web que funcionam.</i>
 </p>
 
 <p align="center">
-  <img alt="Aberto a oportunidades" src="https://img.shields.io/badge/%F0%9F%92%BC%20Aberto%20a%20oportunidades-2ea44f">
+  <img alt="Aberto a oportunidades" src="https://img.shields.io/badge/%F0%9F%92%BC%20Aberto%20a%20novas%20oportunidades-2ea44f">
   <img alt="Localização" src="https://img.shields.io/badge/Juazeiro%20do%20Norte%20·%20CE-informational?logo=googlemaps&logoColor=white">
   <img alt="Faculdade CECAPE" src="https://img.shields.io/badge/Faculdade%20CECAPE-0A66C2">
 </p>
@@ -19,19 +19,78 @@
 
 ## 👋 Sobre mim
 
-Comecei pelo **front-end com React** e fui fundo até o **back-end** e a **nuvem** — hoje
-entrego aplicações inteiras, do banco de dados ao deploy na AWS.
+Minha história com tecnologia começou em **2012**, ainda no ensino médio, quando fiz parte da
+**primeira turma do curso Técnico em Informática para Internet do IFCE – Campus Crato**.
 
-Na **Faculdade CECAPE**, tirei o almoxarifado do "Google Forms + planilha" e botei no lugar
-um **sistema web completo**, que hoje é usado **todos os dias por dezenas de pessoas**. Foi
-ali que aprendi na prática o que é sustentar software de verdade: dado que não pode estar
-errado, deploy que não pode derrubar o sistema no meio do expediente, e gente contando com
-ele pra trabalhar.
+Foi ali que tive meus primeiros contatos com programação, desenvolvimento web, bancos de dados,
+redes e tecnologia de forma profissional. A partir daí, continuei minha formação na área e, entre
+**2016 e 2019**, cursei **Sistemas de Informação na Faculdade Paraíso (FAP)**.
 
-Gosto de pegar um problema real e resolver de ponta a ponta — do modelo de dados à tela que
-o usuário usa.
+Durante a graduação, comecei também a ganhar experiência profissional por meio de estágios,
+passando pela **Nexti**, ligada à FAP, e posteriormente pela **Compass UOL**, em um estágio
+remunerado e realizado de forma remota.
 
-💼 **Aberto a oportunidades** como desenvolvedor **front-end** ou **full-stack**.
+Com o tempo, fui ampliando minha atuação do desenvolvimento de interfaces para o **back-end,
+bancos de dados, APIs, infraestrutura e cloud**. Hoje gosto de trabalhar com a aplicação como um
+todo — entendendo o problema, estruturando os dados, desenvolvendo a solução e colocando tudo para
+funcionar em produção.
+
+Na **Faculdade CECAPE**, desenvolvi um sistema web para o almoxarifado que substituiu processos
+baseados em formulários e planilhas por uma aplicação centralizada, utilizada diariamente por
+dezenas de colaboradores.
+
+Esse tipo de projeto representa bem o que gosto de fazer: **pegar um processo que existe no mundo
+real e transformá-lo em software útil, confiável e fácil de usar.**
+
+Atualmente, sigo aprofundando meus conhecimentos em **Engenharia de Software, desenvolvimento
+full-stack e cloud**, além de desenvolver projetos próprios e buscar novos desafios na área.
+
+---
+
+## 🎓 Formação
+
+### IFCE — Campus Crato
+**Técnico em Informática para Internet · 2012–2014**
+
+Primeira turma do curso no Campus Crato.
+
+Formação voltada para desenvolvimento de sistemas e aplicações web, com base em programação,
+bancos de dados, redes, sistemas e fundamentos de tecnologia.
+
+### Faculdade Paraíso — FAP
+**Sistemas de Informação · 2016–2019**
+
+Graduação com formação em desenvolvimento de software, bancos de dados, engenharia de software,
+redes, sistemas operacionais, análise de sistemas e fundamentos de computação.
+
+### Engenharia de Software
+**Em andamento**
+
+---
+
+## 💼 Experiência
+
+### Faculdade CECAPE
+**Desenvolvimento de sistemas · Almoxarifado**
+
+Desenvolvimento e evolução de um sistema web para gestão de almoxarifado e requisição de materiais,
+levando para uma aplicação integrada processos que anteriormente dependiam de formulários e
+planilhas.
+
+O sistema envolve operações de estoque, requisições, notas fiscais, usuários, relatórios e
+rastreabilidade das movimentações, sendo utilizado diariamente na rotina da instituição.
+
+### Compass UOL
+**Estágio remunerado · Remoto**
+
+Experiência profissional em desenvolvimento de software em ambiente remoto, trabalhando em uma
+estrutura corporativa de tecnologia.
+
+### Nexti — FAP
+**Estágio**
+
+Primeira experiência de estágio durante a graduação, contribuindo para minha formação prática
+em tecnologia e desenvolvimento de software.
 
 ---
 
@@ -72,23 +131,24 @@ o usuário usa.
 ## 🚀 Projetos
 
 ### 📦 [Almoxarifado CECAPE](https://github.com/ermelsu/almoxarifado-cecape) &nbsp;·&nbsp; _flagship_
-Sistema web completo de **gestão de almoxarifado e requisição de materiais**, **em produção
-na AWS** e usado diariamente por dezenas de colaboradores da faculdade.
 
-- **Ciclo completo:** requisições → estoque → notas fiscais → relatórios.
-- **Estoque multi-almoxarifado** com Kardex, custo médio ponderado e movimentações rastreáveis.
-- **Importação de NF-e (XML)** com aprendizado automático fornecedor → material.
-- **Relatórios** contábeis, de consumo e curva ABC montados em tempo real.
-- **Deploy sem downtime** (Elastic Beanstalk *Immutable* + CloudFront) e **CI/CD** com GitHub Actions.
+Sistema web completo de **gestão de almoxarifado e requisição de materiais**, desenvolvido para a
+rotina da Faculdade CECAPE e atualmente em produção na AWS.
+
+- **Ciclo completo:** requisições → separação → entrega → estoque → relatórios.
+- **Gestão de estoque** com movimentações rastreáveis e controle por localização.
+- **Notas fiscais** com importação de NF-e em XML.
+- **Relatórios** de consumo, estoque e movimentações.
+- **APIs REST** integrando as diferentes operações do sistema.
+- **Deploy e infraestrutura na AWS**, com automação de processos por CI/CD.
 
 `React` · `Node.js` · `Express` · `Prisma` · `PostgreSQL` · `AWS`
-<br>
-📈 **~15.000 linhas** · **97 endpoints** · **23 modelos de dados** · **30 migrações**
 
 ### 🧩 Outros projetos
-- **[LifeOS](https://github.com/ermelsu/LifeOS)** — projeto pessoal em **TypeScript**.
-- **[Inventário CECAPE](https://github.com/ermelsu/Inventario)** — app para inventário da faculdade.
-- **[Sistema de Pedidos](https://github.com/ermelsu/sistema-pedidos)** — protótipo de pedidos para a faculdade.
+
+- **[LifeOS](https://github.com/ermelsu/LifeOS)** — projeto pessoal para organização e gerenciamento da vida cotidiana.
+- **[Inventário CECAPE](https://github.com/ermelsu/Inventario)** — aplicação voltada para inventário da faculdade.
+- **[Sistema de Pedidos](https://github.com/ermelsu/sistema-pedidos)** — sistema desenvolvido como protótipo para processos de pedidos.
 
 ---
 
@@ -104,9 +164,17 @@ na AWS** e usado diariamente por dezenas de colaboradores da faculdade.
 ## 📫 Vamos conversar
 
 <p align="center">
-  <a href="mailto:emerson.silva.bezerra@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/_emerson_silva"><img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white"></a>
-  <a href="https://github.com/ermelsu"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="mailto:emerson.silva.bezerra@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/ermelsu">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  </a>
+  <a href="https://x.com/_emerson_silva">
+    <img alt="X" src="https://img.shields.io/badge/X%20(Twitter)-000000?logo=x&logoColor=white">
+  </a>
 </p>
 
-<p align="center"><sub>Sempre aprendendo. Sempre entregando.</sub></p>
+<p align="center">
+  <sub>Sempre aprendendo. Sempre construindo.</sub>
+</p>
