@@ -1,49 +1,26 @@
 <h1 align="center">Emerson Silva 👨‍💻</h1>
 
-<p align="center">
-  <b>Desenvolvedor Web · Front-end → Full-Stack</b><br>
-  Juazeiro do Norte, Ceará 🇧🇷 · Estudando Engenharia de Software
-</p>
+<p align="center"> <b>Desenvolvedor Web · Front-end → Full-Stack</b><br> Juazeiro do Norte, Ceará 🇧🇷 · Estudante de Engenharia de Software </p>
 
-<p align="center">
-  <i>Transformo processos reais em sistemas web que funcionam.</i>
-</p>
+<p align="center"> <i>Transformo processos reais em sistemas web.</i> </p>
 
-<p align="center">
-  <img alt="Aberto a oportunidades" src="https://img.shields.io/badge/%F0%9F%92%BC%20Aberto%20a%20novas%20oportunidades-2ea44f">
-  <img alt="Localização" src="https://img.shields.io/badge/Juazeiro%20do%20Norte%20·%20CE-informational?logo=googlemaps&logoColor=white">
-  <img alt="Faculdade CECAPE" src="https://img.shields.io/badge/Faculdade%20CECAPE-0A66C2">
-</p>
+<p align="center"> <img alt="Localização" src="https://img.shields.io/badge/Juazeiro%20do%20Norte%20·%20CE-informational?logo=googlemaps&logoColor=white"> <img alt="Faculdade CECAPE" src="https://img.shields.io/badge/Faculdade%20CECAPE-0A66C2"> </p>
 
 ---
 
 ## 👋 Sobre mim
 
-Minha história com tecnologia começou em **2012**, ainda no ensino médio, quando fiz parte da
-**primeira turma do curso Técnico em Informática para Internet do IFCE – Campus Crato**.
+### Minha jornada na tecnologia começou em 2012, no IFCE – Campus Crato, onde fiz parte da primeira turma do Técnico em Informática para Internet.
 
-Foi ali que tive meus primeiros contatos com programação, desenvolvimento web, bancos de dados,
-redes e tecnologia de forma profissional. A partir daí, continuei minha formação na área e, entre
-**2016 e 2019**, cursei **Sistemas de Informação na Faculdade Paraíso (FAP)**.
+Em seguida, cursei Sistemas de Informação na FAP, entre 2016 e 2018, período em que também passei por experiências de estágio na Nexti e também estudei na FJN onde tive contato com a oportunidade de estagiar na Compass UOL.
 
-Durante a graduação, comecei também a ganhar experiência profissional por meio de estágios,
-passando pela **Nexti**, ligada à FAP, e posteriormente pela **Compass UOL**, em um estágio
-remunerado e realizado de forma remota.
+Hoje atuo no desenvolvimento de aplicações web, trabalhando do front-end ao back-end, banco de dados e cloud.
 
-Com o tempo, fui ampliando minha atuação do desenvolvimento de interfaces para o **back-end,
-bancos de dados, APIs, infraestrutura e cloud**. Hoje gosto de trabalhar com a aplicação como um
-todo — entendendo o problema, estruturando os dados, desenvolvendo a solução e colocando tudo para
-funcionar em produção.
+Na Faculdade CECAPE, desenvolvi um sistema de gestão de almoxarifado que substituiu processos em formulários e planilhas por uma aplicação web utilizada diariamente na instituição.
 
-Na **Faculdade CECAPE**, desenvolvi um sistema web para o almoxarifado que substituiu processos
-baseados em formulários e planilhas por uma aplicação centralizada, utilizada diariamente por
-dezenas de colaboradores.
+Gosto de transformar problemas e processos reais em software, buscando soluções simples, funcionais e sustentáveis.
 
-Esse tipo de projeto representa bem o que gosto de fazer: **pegar um processo que existe no mundo
-real e transformá-lo em software útil, confiável e fácil de usar.**
-
-Atualmente, sigo aprofundando meus conhecimentos em **Engenharia de Software, desenvolvimento
-full-stack e cloud**, além de desenvolver projetos próprios e buscar novos desafios na área.
+Atualmente, sigo evoluindo em Engenharia de Software, desenvolvimento full-stack e cloud, enquanto construo projetos próprios e profissionais.
 
 ---
 
@@ -58,7 +35,10 @@ Formação voltada para desenvolvimento de sistemas e aplicações web, com base
 bancos de dados, redes, sistemas e fundamentos de tecnologia.
 
 ### Faculdade Paraíso — FAP
-**Sistemas de Informação · 2016–2019**
+**Sistemas de Informação · 2016–2018**
+
+### Faculdade Juazeiro do Norte — FJN
+**Sistemas de Informação · 2018–**
 
 Graduação com formação em desenvolvimento de software, bancos de dados, engenharia de software,
 redes, sistemas operacionais, análise de sistemas e fundamentos de computação.
